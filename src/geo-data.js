@@ -8123,6 +8123,7 @@ export const COMUNI = [
     [ 'L788','PV','VERRUA PO'],
     [ 'L787','TO','VERRUA SAVOIA'],
     [ 'L792','CO','VERTEMATE CON MINOPRIO'],
+    [ 'L793','EE','VERTENEGLIO'],
     [ 'L795','BG','VERTOVA'],
     [ 'L797','RN','VERUCCHIO'],
     [ 'L798','NO','VERUNO'],
