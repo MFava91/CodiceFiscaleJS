@@ -1,6 +1,6 @@
 {
   "name": "codice-fiscale-js",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "The Italian Tax Code Library for Javascript and Typescript",
   "main": "dist/codice.fiscale.umd.js",
   "repository": {
@@ -21,7 +21,8 @@
     "regenerator-runtime": "^0.11.1",
     "request": "^2.88.0",
     "standard": "^10.0.3",
-    "webpack": "^4.20.2"
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
   },
   "scripts": {
     "build": "webpack && cp ./dist/codice.fiscale.var.js ./example/",
