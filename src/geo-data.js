@@ -7921,6 +7921,7 @@ export const COMUNI = [
     [ 'L550','TN','VALDA'],
     [ 'L551','VI','VALDAGNO'],
     [ 'L552','BZ','VALDAORA'],
+    [ 'L553','EE','VALDARSA'],
     [ 'L554','VI','VALDASTICO'],
     [ 'L556','BI','VALDENGO'],
     [ 'G319','TP','VALDERICE'],
